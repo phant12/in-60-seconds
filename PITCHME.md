@@ -28,6 +28,8 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 #### And start presenting...
 @snapend
 
+
+
 @snap[west span-55]
 @ul[spaced text-white]
 - You will be amazed
@@ -39,14 +41,4 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 
 @snap[east span-45]
 @img[shadow](assets/img/conference.png)
-@snapend
-
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 h2-white]
-## Now It's Your Turn
-@snapend
-
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
