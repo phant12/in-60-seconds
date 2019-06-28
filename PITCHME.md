@@ -2,7 +2,7 @@
 
 ---
 
-## Add Some Slide Candy
+## Test
 
 ![](assets/img/presentation.png)
 
@@ -27,8 +27,6 @@ Snap Layouts let you create custom slide designs directly within your markdown.
 @snap[north-west h4-white]
 #### And start presenting...
 @snapend
-
-
 
 @snap[west span-55]
 @ul[spaced text-white]
