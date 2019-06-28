@@ -13,6 +13,7 @@
 ## Customize the Layout
 @snapend
 
+
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
@@ -20,6 +21,18 @@
 @snap[south span-100 text-white]
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
+
+
+---?color=linear-gradient(100deg, white 50%, #567AD2 50%)
+@snap[west span-40 text-center]
+
+### Hej
+@fa[quote-left quote-graphql](A query language for your API)
+![GRAPHQL](assets/img/test.png)
+
+@snapend
+
+
 
 ---?color=linear-gradient(90deg, #E27924 65%, white 35%)
 @title[Add A Little Imagination]
